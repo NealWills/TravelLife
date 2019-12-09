@@ -1,0 +1,1307 @@
+{
+  "warnings": [
+    {
+      "file": "/Users/neal/Desktop/Module/Module/AppDelegate.swift",
+      "line": 14,
+      "symbol": "AppDelegate",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/neal/Desktop/Module/Module/Base/App/App.swift",
+      "line": 5,
+      "symbol": "App",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/neal/Desktop/Module/Module/Base/App/App.swift",
+      "line": 7,
+      "symbol": "App.Screen",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/neal/Desktop/Module/Module/Base/App/App.swift",
+      "line": 8,
+      "symbol": "App.Screen.width",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/neal/Desktop/Module/Module/Base/App/App.swift",
+      "line": 9,
+      "symbol": "App.Screen.height",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/neal/Desktop/Module/Module/Base/App/App.swift",
+      "line": 10,
+      "symbol": "App.Screen.size",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/neal/Desktop/Module/Module/Base/App/App.swift",
+      "line": 11,
+      "symbol": "App.Screen.center",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/neal/Desktop/Module/Module/Base/App/App.swift",
+      "line": 12,
+      "symbol": "App.Screen.bounds",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/neal/Desktop/Module/Module/Base/App/App.swift",
+      "line": 17,
+      "symbol": "App.CurrentPhone",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/neal/Desktop/Module/Module/Base/App/App.swift",
+      "line": 18,
+      "symbol": "App.CurrentPhone.type",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/neal/Desktop/Module/Module/Base/App/App.swift",
+      "line": 21,
+      "symbol": "App.CurrentPad",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/neal/Desktop/Module/Module/Base/App/App.swift",
+      "line": 22,
+      "symbol": "App.CurrentPad.type",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/neal/Desktop/Module/Module/Base/App/App.swift",
+      "line": 25,
+      "symbol": "App.StatusBar",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/neal/Desktop/Module/Module/Base/App/App.swift",
+      "line": 26,
+      "symbol": "App.StatusBar.width",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/neal/Desktop/Module/Module/Base/App/App.swift",
+      "line": 27,
+      "symbol": "App.StatusBar.height",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/neal/Desktop/Module/Module/Base/App/App.swift",
+      "line": 30,
+      "symbol": "App.NavigationBar",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/neal/Desktop/Module/Module/Base/App/App.swift",
+      "line": 31,
+      "symbol": "App.NavigationBar.width",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/neal/Desktop/Module/Module/Base/App/App.swift",
+      "line": 32,
+      "symbol": "App.NavigationBar.height",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/neal/Desktop/Module/Module/Base/App/App.swift",
+      "line": 35,
+      "symbol": "App.Tabbar",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/neal/Desktop/Module/Module/Base/App/App.swift",
+      "line": 36,
+      "symbol": "App.Tabbar.width",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/neal/Desktop/Module/Module/Base/App/App.swift",
+      "line": 37,
+      "symbol": "App.Tabbar.height",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/neal/Desktop/Module/Module/Base/App/App.swift",
+      "line": 40,
+      "symbol": "App.BottomBar",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/neal/Desktop/Module/Module/Base/App/App.swift",
+      "line": 41,
+      "symbol": "App.BottomBar.width",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/neal/Desktop/Module/Module/Base/App/App.swift",
+      "line": 42,
+      "symbol": "App.BottomBar.height",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/neal/Desktop/Module/Module/Base/App/DeviceType.swift",
+      "line": 13,
+      "symbol": "Phone",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/neal/Desktop/Module/Module/Base/App/DeviceType.swift",
+      "line": 15,
+      "symbol": "Phone.type",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/neal/Desktop/Module/Module/Base/App/DeviceType.swift",
+      "line": 16,
+      "symbol": "Phone.type.Not",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/neal/Desktop/Module/Module/Base/App/DeviceType.swift",
+      "line": 17,
+      "symbol": "Phone.type.Iphone4s",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/neal/Desktop/Module/Module/Base/App/DeviceType.swift",
+      "line": 18,
+      "symbol": "Phone.type.IphoneSe",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/neal/Desktop/Module/Module/Base/App/DeviceType.swift",
+      "line": 19,
+      "symbol": "Phone.type.Iphone8",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/neal/Desktop/Module/Module/Base/App/DeviceType.swift",
+      "line": 20,
+      "symbol": "Phone.type.Iphone8P",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/neal/Desktop/Module/Module/Base/App/DeviceType.swift",
+      "line": 21,
+      "symbol": "Phone.type.Iphone11Pro",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/neal/Desktop/Module/Module/Base/App/DeviceType.swift",
+      "line": 22,
+      "symbol": "Phone.type.Iphone11Max",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/neal/Desktop/Module/Module/Base/App/DeviceType.swift",
+      "line": 25,
+      "symbol": "Phone.typeSize",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/neal/Desktop/Module/Module/Base/App/DeviceType.swift",
+      "line": 27,
+      "symbol": "Phone.typeSize.Iphone4s",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/neal/Desktop/Module/Module/Base/App/DeviceType.swift",
+      "line": 29,
+      "symbol": "Phone.typeSize.IphoneSe",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/neal/Desktop/Module/Module/Base/App/DeviceType.swift",
+      "line": 31,
+      "symbol": "Phone.typeSize.Iphone8",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/neal/Desktop/Module/Module/Base/App/DeviceType.swift",
+      "line": 33,
+      "symbol": "Phone.typeSize.Iphone8P",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/neal/Desktop/Module/Module/Base/App/DeviceType.swift",
+      "line": 35,
+      "symbol": "Phone.typeSize.Iphone11Pro",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/neal/Desktop/Module/Module/Base/App/DeviceType.swift",
+      "line": 37,
+      "symbol": "Phone.typeSize.Iphone11Max",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/neal/Desktop/Module/Module/Base/App/DeviceType.swift",
+      "line": 41,
+      "symbol": "Phone.getType()",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/neal/Desktop/Module/Module/Base/App/DeviceType.swift",
+      "line": 74,
+      "symbol": "Pad",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/neal/Desktop/Module/Module/Base/App/DeviceType.swift",
+      "line": 75,
+      "symbol": "Pad.type",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/neal/Desktop/Module/Module/Base/App/DeviceType.swift",
+      "line": 76,
+      "symbol": "Pad.type.Not",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/neal/Desktop/Module/Module/Base/App/DeviceType.swift",
+      "line": 77,
+      "symbol": "Pad.type.IpadPro97",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/neal/Desktop/Module/Module/Base/App/DeviceType.swift",
+      "line": 78,
+      "symbol": "Pad.type.IpadPro105",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/neal/Desktop/Module/Module/Base/App/DeviceType.swift",
+      "line": 79,
+      "symbol": "Pad.type.IpadPro129",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/neal/Desktop/Module/Module/Base/App/DeviceType.swift",
+      "line": 80,
+      "symbol": "Pad.type.IpadPro110Totol",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/neal/Desktop/Module/Module/Base/App/DeviceType.swift",
+      "line": 83,
+      "symbol": "Pad.typeSize",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/neal/Desktop/Module/Module/Base/App/DeviceType.swift",
+      "line": 85,
+      "symbol": "Pad.typeSize.IpadPro97",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/neal/Desktop/Module/Module/Base/App/DeviceType.swift",
+      "line": 87,
+      "symbol": "Pad.typeSize.IpadPro105",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/neal/Desktop/Module/Module/Base/App/DeviceType.swift",
+      "line": 89,
+      "symbol": "Pad.typeSize.IpadPro129",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/neal/Desktop/Module/Module/Base/App/DeviceType.swift",
+      "line": 91,
+      "symbol": "Pad.typeSize.IpadPro110Totol",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/neal/Desktop/Module/Module/Base/App/DeviceType.swift",
+      "line": 95,
+      "symbol": "Pad.getType()",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/neal/Desktop/Module/Module/Base/BaseNavbar.swift",
+      "line": 11,
+      "symbol": "BaseNavbar",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/neal/Desktop/Module/Module/Base/BaseNavbar.swift",
+      "line": 13,
+      "symbol": "BaseNavbar._lblTitle",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/neal/Desktop/Module/Module/Base/BaseNavbar.swift",
+      "line": 14,
+      "symbol": "BaseNavbar.lblTitle",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/neal/Desktop/Module/Module/Base/BaseNavbar.swift",
+      "line": 36,
+      "symbol": "BaseNavbar.init(title:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/neal/Desktop/Module/Module/Base/BaseNavbar.swift",
+      "line": 41,
+      "symbol": "BaseNavbar.init(frame:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/neal/Desktop/Module/Module/Base/BaseNavbar.swift",
+      "line": 45,
+      "symbol": "BaseNavbar.init(coder:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/neal/Desktop/Module/Module/Base/BaseNavbar.swift",
+      "line": 51,
+      "symbol": "BaseNavbar",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/neal/Desktop/Module/Module/Base/BaseNavbar.swift",
+      "line": 52,
+      "symbol": "BaseNavbar.setTitle(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/neal/Desktop/Module/Module/Base/BaseNavbar.swift",
+      "line": 57,
+      "symbol": "BaseNavbar.setFont(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/neal/Desktop/Module/Module/Base/BaseNavbar.swift",
+      "line": 62,
+      "symbol": "BaseNavbar.setAlignment(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/neal/Desktop/Module/Module/Base/BaseNavbar.swift",
+      "line": 67,
+      "symbol": "BaseNavbar.setForegroundColor(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/neal/Desktop/Module/Module/Base/BaseTabbar.swift",
+      "line": 11,
+      "symbol": "BaseTabbar",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/neal/Desktop/Module/Module/Base/BaseTabbarViewController.swift",
+      "line": 11,
+      "symbol": "BaseTabbarViewController",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/neal/Desktop/Module/Module/Base/BaseTabbarViewController.swift",
+      "line": 13,
+      "symbol": "BaseTabbarViewController.viewDidLoad()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/neal/Desktop/Module/Module/Base/BaseViewController.swift",
+      "line": 15,
+      "symbol": "BaseViewController",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/neal/Desktop/Module/Module/Base/BaseViewController.swift",
+      "line": 17,
+      "symbol": "BaseViewController.disposeMain",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/neal/Desktop/Module/Module/Base/BaseViewController.swift",
+      "line": 19,
+      "symbol": "BaseViewController.disposeCell",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/neal/Desktop/Module/Module/Base/BaseViewController.swift",
+      "line": 21,
+      "symbol": "BaseViewController.navBar",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/neal/Desktop/Module/Module/Base/BaseViewController.swift",
+      "line": 23,
+      "symbol": "BaseViewController.tabbar",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/neal/Desktop/Module/Module/Base/BaseViewController.swift",
+      "line": 25,
+      "symbol": "BaseViewController._statusBarStyle",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/neal/Desktop/Module/Module/Base/BaseViewController.swift",
+      "line": 27,
+      "symbol": "BaseViewController.statusBarStyle",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/neal/Desktop/Module/Module/Base/BaseViewController.swift",
+      "line": 44,
+      "symbol": "BaseViewController._tableview",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/neal/Desktop/Module/Module/Base/BaseViewController.swift",
+      "line": 45,
+      "symbol": "BaseViewController.tableView",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/neal/Desktop/Module/Module/Base/BaseViewController.swift",
+      "line": 60,
+      "symbol": "BaseViewController.viewDidLoad()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/neal/Desktop/Module/Module/Base/BaseViewController.swift",
+      "line": 102,
+      "symbol": "BaseViewController.didMove(toParent:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/neal/Desktop/Module/Module/Class/Login/LoginViewController.swift",
+      "line": 11,
+      "symbol": "LoginViewController",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/neal/Desktop/Module/Module/Class/Login/LoginViewController.swift",
+      "line": 13,
+      "symbol": "LoginViewController.contentView",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/neal/Desktop/Module/Module/Class/Login/LoginViewController.swift",
+      "line": 15,
+      "symbol": "LoginViewController.btnQQ",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/neal/Desktop/Module/Module/Class/Login/LoginViewController.swift",
+      "line": 17,
+      "symbol": "LoginViewController.btnWeChat",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/neal/Desktop/Module/Module/Class/Login/LoginViewController.swift",
+      "line": 19,
+      "symbol": "LoginViewController.btnLogin",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/neal/Desktop/Module/Module/Class/Login/LoginViewController.swift",
+      "line": 21,
+      "symbol": "LoginViewController.btnForget",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/neal/Desktop/Module/Module/Class/Login/LoginViewController.swift",
+      "line": 23,
+      "symbol": "LoginViewController.btnRegist",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/neal/Desktop/Module/Module/Class/Login/LoginViewController.swift",
+      "line": 25,
+      "symbol": "LoginViewController.btnLoginStart",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/neal/Desktop/Module/Module/Class/Login/LoginViewController.swift",
+      "line": 27,
+      "symbol": "LoginViewController.btnRegistStart",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/neal/Desktop/Module/Module/Class/Login/LoginViewController.swift",
+      "line": 29,
+      "symbol": "LoginViewController.textPassword",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/neal/Desktop/Module/Module/Class/Login/LoginViewController.swift",
+      "line": 31,
+      "symbol": "LoginViewController.textAccount",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/neal/Desktop/Module/Module/Class/Login/LoginViewController.swift",
+      "line": 35,
+      "symbol": "LoginViewController.viewDidLoad()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/neal/Desktop/Module/Module/Class/Login/LoginViewController.swift",
+      "line": 217,
+      "symbol": "LoginViewController.touchesBegan(_:with:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/neal/Desktop/Module/Module/Class/Login/LoginViewController.swift",
+      "line": 222,
+      "symbol": "LoginViewController.didMove(toParent:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/neal/Desktop/Module/Module/Class/Login/LoginViewController.swift",
+      "line": 232,
+      "symbol": "LoginViewController",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/neal/Desktop/Module/Module/Class/Login/LoginViewController.swift",
+      "line": 233,
+      "symbol": "LoginViewController.textFieldShouldBeginEditing(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/neal/Desktop/Module/Module/Class/Login/LoginViewController.swift",
+      "line": 244,
+      "symbol": "LoginViewController.textFieldShouldEndEditing(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/neal/Desktop/Module/Module/Lib/Extension/CGRect+NW.swift",
+      "line": 13,
+      "symbol": "CGRect.Width",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/neal/Desktop/Module/Module/Lib/Extension/CGRect+NW.swift",
+      "line": 22,
+      "symbol": "CGRect.Height",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/neal/Desktop/Module/Module/Lib/Extension/CGRect+NW.swift",
+      "line": 31,
+      "symbol": "CGRect.Leading",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/neal/Desktop/Module/Module/Lib/Extension/CGRect+NW.swift",
+      "line": 40,
+      "symbol": "CGRect.Top",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/neal/Desktop/Module/Module/Lib/Extension/CGRect+NW.swift",
+      "line": 49,
+      "symbol": "CGRect.Tailing",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/neal/Desktop/Module/Module/Lib/Extension/CGRect+NW.swift",
+      "line": 58,
+      "symbol": "CGRect.Bottom",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/neal/Desktop/Module/Module/Lib/Extension/CGRect+NW.swift",
+      "line": 67,
+      "symbol": "CGRect.destination",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/neal/Desktop/Module/Module/Lib/Extension/CGRect+NW.swift",
+      "line": 76,
+      "symbol": "CGRect.Center",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/neal/Desktop/Module/Module/Lib/Extension/CGRect+NW.swift",
+      "line": 253,
+      "symbol": "CGRect.loc(ratioHor:ratioVer:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/neal/Desktop/Module/Module/Lib/Extension/CGRect+NW.swift",
+      "line": 259,
+      "symbol": "CGRect.loc(sizeHor:sizeVer:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/neal/Desktop/Module/Module/Lib/Extension/CGRect+NW.swift",
+      "line": 267,
+      "symbol": "CGRect.size(of:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/neal/Desktop/Module/Module/Lib/Extension/CGRect+NW.swift",
+      "line": 271,
+      "symbol": "CGRect.size(ratioHor:ratioVer:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/neal/Desktop/Module/Module/Lib/Extension/NWColor.swift",
+      "line": 12,
+      "symbol": "UIColor.hexColor(_:alpha:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/neal/Desktop/Module/Module/Lib/Extension/String+NW.swift",
+      "line": 12,
+      "symbol": "String.subscript(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.subscript",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/neal/Desktop/Module/Module/Lib/Extension/String+NW.swift",
+      "line": 20,
+      "symbol": "String.hexInt",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/neal/Desktop/Module/Module/Lib/Extension/UIView+NW.swift",
+      "line": 14,
+      "symbol": "UIView.Width",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/neal/Desktop/Module/Module/Lib/Extension/UIView+NW.swift",
+      "line": 23,
+      "symbol": "UIView.Height",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/neal/Desktop/Module/Module/Lib/Extension/UIView+NW.swift",
+      "line": 32,
+      "symbol": "UIView.Leading",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/neal/Desktop/Module/Module/Lib/Extension/UIView+NW.swift",
+      "line": 41,
+      "symbol": "UIView.Top",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/neal/Desktop/Module/Module/Lib/Extension/UIView+NW.swift",
+      "line": 50,
+      "symbol": "UIView.Tailing",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/neal/Desktop/Module/Module/Lib/Extension/UIView+NW.swift",
+      "line": 59,
+      "symbol": "UIView.Bottom",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/neal/Desktop/Module/Module/Lib/Extension/UIView+NW.swift",
+      "line": 68,
+      "symbol": "UIView.destination",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/neal/Desktop/Module/Module/Lib/Extension/UIView+NW.swift",
+      "line": 77,
+      "symbol": "UIView.Center",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/neal/Desktop/Module/Module/Lib/Extension/UIView+NW.swift",
+      "line": 258,
+      "symbol": "UIButton.setBackgroundImage(img:for:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/neal/Desktop/Module/Module/Lib/Extension/UIView+NW.swift",
+      "line": 263,
+      "symbol": "UIButton.setTitle(str:for:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/neal/Desktop/Module/Module/Lib/Extension/UIView+NW.swift",
+      "line": 268,
+      "symbol": "UIButton.setTitleColor(color:for:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/neal/Desktop/Module/Module/Lib/Extension/UIView+NW.swift",
+      "line": 273,
+      "symbol": "UIButton.setFont(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/neal/Desktop/Module/Module/Lib/Extension/UIView+NW.swift",
+      "line": 284,
+      "symbol": "UITextField.setLeftView(leftView:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/neal/Desktop/Module/Module/Lib/Extension/UIView+NW.swift",
+      "line": 292,
+      "symbol": "UITextField.setRightView(leftView:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/neal/Desktop/Module/Module/Lib/Extension/UIView+NW.swift",
+      "line": 300,
+      "symbol": "UITextField.setTitle(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/neal/Desktop/Module/Module/Lib/Extension/UIView+NW.swift",
+      "line": 305,
+      "symbol": "UITextField.setPlaceholder(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/neal/Desktop/Module/Module/Lib/Extension/UIView+NW.swift",
+      "line": 331,
+      "symbol": "UITextField.setClearBtnMode(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/neal/Desktop/Module/Module/Lib/Extension/UIView+NW.swift",
+      "line": 336,
+      "symbol": "UITextField.setSecureTextEntry(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/neal/Desktop/Module/Module/Lib/Extension/UIView+NW.swift",
+      "line": 341,
+      "symbol": "UITextField.setKeyboardType(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/neal/Desktop/Module/Module/Lib/Extension/UIView+NW.swift",
+      "line": 346,
+      "symbol": "UITextField.setDelegate(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/neal/Desktop/Module/Module/Lib/Log/Log.swift",
+      "line": 2,
+      "symbol": "Log",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/neal/Desktop/Module/Module/Lib/Log/Log.swift",
+      "line": 4,
+      "symbol": "Log.open",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/neal/Desktop/Module/Module/Lib/Log/Log.swift",
+      "line": 13,
+      "symbol": "Log.minimunLevel",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/neal/Desktop/Module/Module/Lib/Log/Log.swift",
+      "line": 24,
+      "symbol": "Log",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/neal/Desktop/Module/Module/Lib/Log/Log.swift",
+      "line": 26,
+      "symbol": "Log.setOpen(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/neal/Desktop/Module/Module/Lib/Log/Log.swift",
+      "line": 30,
+      "symbol": "Log.setMinimunLevel(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/neal/Desktop/Module/Module/Lib/Log/Log.swift",
+      "line": 36,
+      "symbol": "Log",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/neal/Desktop/Module/Module/Lib/Log/Log.swift",
+      "line": 38,
+      "symbol": "Log.setMark(markTrace:markDebug:markInfo:markWarning:markError:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/neal/Desktop/Module/Module/Lib/Log/Log.swift",
+      "line": 44,
+      "symbol": "Log",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/neal/Desktop/Module/Module/Lib/Log/Log.swift",
+      "line": 46,
+      "symbol": "Log.Log(_:level:fileName:line:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/neal/Desktop/Module/Module/Lib/Log/Log.swift",
+      "line": 53,
+      "symbol": "Log",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/neal/Desktop/Module/Module/Lib/Log/Log.swift",
+      "line": 55,
+      "symbol": "Log.Trace(_:fileName:line:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/neal/Desktop/Module/Module/Lib/Log/Log.swift",
+      "line": 60,
+      "symbol": "Log.Debug(_:fileName:line:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/neal/Desktop/Module/Module/Lib/Log/Log.swift",
+      "line": 65,
+      "symbol": "Log.Info(_:fileName:line:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/neal/Desktop/Module/Module/Lib/Log/Log.swift",
+      "line": 70,
+      "symbol": "Log.Warning(_:fileName:line:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/neal/Desktop/Module/Module/Lib/Log/Log.swift",
+      "line": 75,
+      "symbol": "Log.Error(_:fileName:line:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/neal/Desktop/Module/Module/Lib/Log/Log.swift",
+      "line": 82,
+      "symbol": "Log",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/neal/Desktop/Module/Module/Lib/Log/Log.swift",
+      "line": 84,
+      "symbol": "Log.Api(api:method:process:items:level:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/neal/Desktop/Module/Module/Lib/Log/LogEnums.swift",
+      "line": 10,
+      "symbol": "Level",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/neal/Desktop/Module/Module/Lib/Log/LogEnums.swift",
+      "line": 11,
+      "symbol": "Level.Trace",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/neal/Desktop/Module/Module/Lib/Log/LogEnums.swift",
+      "line": 12,
+      "symbol": "Level.Debug",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/neal/Desktop/Module/Module/Lib/Log/LogEnums.swift",
+      "line": 13,
+      "symbol": "Level.Info",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/neal/Desktop/Module/Module/Lib/Log/LogEnums.swift",
+      "line": 14,
+      "symbol": "Level.Warning",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/neal/Desktop/Module/Module/Lib/Log/LogEnums.swift",
+      "line": 15,
+      "symbol": "Level.Error",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/neal/Desktop/Module/Module/Lib/Log/LogEnums.swift",
+      "line": 18,
+      "symbol": "Open",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/neal/Desktop/Module/Module/Lib/Log/LogEnums.swift",
+      "line": 19,
+      "symbol": "Open.Close",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/neal/Desktop/Module/Module/Lib/Log/LogEnums.swift",
+      "line": 19,
+      "symbol": "Open.Open",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/neal/Desktop/Module/Module/Lib/Log/LogEnums.swift",
+      "line": 22,
+      "symbol": "ApiMethod",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/neal/Desktop/Module/Module/Lib/Log/LogEnums.swift",
+      "line": 23,
+      "symbol": "ApiMethod.Delete",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/neal/Desktop/Module/Module/Lib/Log/LogEnums.swift",
+      "line": 23,
+      "symbol": "ApiMethod.GET",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/neal/Desktop/Module/Module/Lib/Log/LogEnums.swift",
+      "line": 23,
+      "symbol": "ApiMethod.POST",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/neal/Desktop/Module/Module/Lib/Log/LogEnums.swift",
+      "line": 26,
+      "symbol": "ApiProcess",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/neal/Desktop/Module/Module/Lib/Log/LogEnums.swift",
+      "line": 27,
+      "symbol": "ApiProcess.Request",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/neal/Desktop/Module/Module/Lib/Log/LogEnums.swift",
+      "line": 27,
+      "symbol": "ApiProcess.Response",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/neal/Desktop/Module/Module/Lib/Log/LogEnums.swift",
+      "line": 30,
+      "symbol": "logMark",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/neal/Desktop/Module/Module/Lib/Log/LogEnums.swift",
+      "line": 32,
+      "symbol": "logMark.Trace",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/neal/Desktop/Module/Module/Lib/Log/LogEnums.swift",
+      "line": 34,
+      "symbol": "logMark.Debug",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/neal/Desktop/Module/Module/Lib/Log/LogEnums.swift",
+      "line": 36,
+      "symbol": "logMark.Info",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/neal/Desktop/Module/Module/Lib/Log/LogEnums.swift",
+      "line": 38,
+      "symbol": "logMark.Warning",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/neal/Desktop/Module/Module/Lib/Log/LogEnums.swift",
+      "line": 40,
+      "symbol": "logMark.Error",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/neal/Desktop/Module/Module/Lib/Log/LogEnums.swift",
+      "line": 42,
+      "symbol": "logMark.init(markTrace:markDebug:markInfo:markWarning:markError:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/neal/Desktop/Module/Module/Lib/Log/LogManager.swift",
+      "line": 3,
+      "symbol": "LogManager",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/neal/Desktop/Module/Module/Lib/Log/LogManager.swift",
+      "line": 6,
+      "symbol": "LogManager._open",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/neal/Desktop/Module/Module/Lib/Log/LogManager.swift",
+      "line": 7,
+      "symbol": "LogManager.open",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/neal/Desktop/Module/Module/Lib/Log/LogManager.swift",
+      "line": 17,
+      "symbol": "LogManager._minimunLevel",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/neal/Desktop/Module/Module/Lib/Log/LogManager.swift",
+      "line": 18,
+      "symbol": "LogManager.minimunLevel",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/neal/Desktop/Module/Module/Lib/Log/LogManager.swift",
+      "line": 27,
+      "symbol": "LogManager.mark",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/neal/Desktop/Module/Module/Lib/Log/LogManager.swift",
+      "line": 90,
+      "symbol": "LogManager",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/neal/Desktop/Module/Module/Lib/Log/LogManager.swift",
+      "line": 91,
+      "symbol": "LogManager.setMark(markTrace:markDebug:markInfo:markWarning:markError:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/neal/Desktop/Module/Module/Lib/Log/LogManager.swift",
+      "line": 97,
+      "symbol": "LogManager",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/neal/Desktop/Module/Module/Lib/Log/LogManager.swift",
+      "line": 99,
+      "symbol": "LogManager.LevelLog(_:fileName:line:level:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/neal/Desktop/Module/Module/Lib/Log/LogManager.swift",
+      "line": 129,
+      "symbol": "LogManager",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/neal/Desktop/Module/Module/Lib/Log/LogManager.swift",
+      "line": 130,
+      "symbol": "LogManager.Log(_:level:fileName:line:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/neal/Desktop/Module/Module/Lib/Log/LogManager.swift",
+      "line": 142,
+      "symbol": "LogManager",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/neal/Desktop/Module/Module/Lib/Log/LogManager.swift",
+      "line": 143,
+      "symbol": "LogManager.API(api:method:process:_:level:fileName:line:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    }
+  ],
+  "source_directory": "/Users/neal/Desktop/Module"
+}
